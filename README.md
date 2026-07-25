@@ -35,4 +35,4 @@ Cleaned_House_Prices.csv
 
 This project was completed as part of the DecodeLabs Internship Program.
 
-Special thanks to @decodelabs.tech for providing guidance and learning resources.
+Special thanks to @DecodeLabs for providing guidance and learning resources.
